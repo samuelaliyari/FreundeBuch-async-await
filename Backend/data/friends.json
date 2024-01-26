@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "firstName": "Samuel",
+    "lastName": "Aliyari",
+    "birthDate": "09.08.1987",
+    "mobile": 157380002212,
+    "email": "samuelaliyari@outlook.de",
+    "beruf": "Web Developer",
+    "verdienst": 50000,
+    "freelancer": false,
+    "contracts": 5,
+    "summary": "er ist der beste und alle wissen das"
+  },
+  {
+    "id": 1706224240863,
+    "firstName": "test",
+    "lastName": "Aliyari",
+    "birthDate": "09.08.1987",
+    "mobile": 157380002212,
+    "email": "samuelaliyari@outlook.de",
+    "beruf": "Web Developer",
+    "verdienst": 50000,
+    "freelancer": true,
+    "contracts": 0,
+    "summary": "Sehr gutes Feature?"
+  }
+]
